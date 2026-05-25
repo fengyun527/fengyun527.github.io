@@ -19,11 +19,11 @@ title: Liu's blog # the main title
 tagline: 一些知识和方法论的个人理解 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Liu X 的个人博客，记录技术学习与生活感悟。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://fengyun527.github.io/"
+url: "https://fengyun527.github.io"
 
 github:
   username: fengyun527 # change to your GitHub username
